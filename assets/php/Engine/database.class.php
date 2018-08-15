@@ -144,7 +144,6 @@ class Database
 			}
 		}
 		
-		//die($sql);
 		if(!$this->query($sql, array($input,$sec_input,$third_input))->error()){
 			return $this;
 		}

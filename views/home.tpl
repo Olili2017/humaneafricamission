@@ -55,6 +55,7 @@
 		 <div class="down"><a class="scroll" href="#services"><img src="../assets/images/down.png" alt=""></a></div>
 	</div>
 
+	</div>
 <!--/products-->
 		  <div class="about" id="about">
 		     <div class="container">

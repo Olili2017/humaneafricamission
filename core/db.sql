@@ -50,7 +50,7 @@ CREATE TABLE IF NOT EXISTS com_humaneafricamission.pages(
 
 CREATE TABLE IF NOT EXISTS com_humaneafricamission.content(
     id int primary key AUTO_INCREMENT,
-    content_type enum('post','menu'),
+    content_type enum('post','menu','blog') not null,
     title varchar(250) null,
     body text not null,
     clickable tinyint(1) null DEFAULT 0,

@@ -21,6 +21,9 @@ class Router {
         
         $master_layout->set("title", ($this->page_title != null)?$this->page_title." | ".$this->get_system_name():$this->get_system_name());
         $master_layout->set("system_logo",$this->get_system_name());
+        if($this->fetch_page){
+            $master_layout->set("page_type","two");
+        }
         $master_layout->set("content", $this->render(new Page($this->fetch_page)));
 
         

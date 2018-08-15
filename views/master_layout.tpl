@@ -43,7 +43,7 @@
 
     </head>
 <body>
-    <div class="banner" id="home">
+    <div class="banner [@page_type]" id="home">
 		<div class="header-bottom wow slideInDown"  data-wow-duration="1s" data-wow-delay=".3s">
 		     <div class="container">
 			  <div class="fixed-header">

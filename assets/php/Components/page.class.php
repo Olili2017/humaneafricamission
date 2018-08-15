@@ -48,7 +48,26 @@ class Page {
             $error = $error->getErrorPage();
             $output .= $error;
         }else{
-            var_dump($res);
+            $db = new Database();
+            $content = $db->get("content",array("content_page", "=", $res->first()->id));
+            
+            if(count($content->results())){
+                //var_dump($content);
+                $page = new Template(DOCUMENT_ROOT."/views/page.tpl");
+                $page->set("title",$res->first()->title);
+                if($res->first()->has_comments){
+                    $comment_section = new Template(DOCUMENT_ROOT."/views/comment_form.tpl");
+                    /*$page->set("comments_section",$comment_section->output());*/
+                    $page->set("comment_section",$comment_section->output());
+                }else{
+                    $page->set("comment_section","");
+                }
+                return $page->output();
+            }else{
+                $no_content = new Error(404,"No content found", "No content has been created for this page yet. Please contact website admin at <a href='mailto:admin@humaneafricamission.org'>admin@humaneafricamission.org</a>");
+                $no_content = $no_content->getErrorPage();
+                return $no_content;
+            }
         }
         return $output;
     }
