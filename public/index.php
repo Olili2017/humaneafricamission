@@ -19,7 +19,7 @@
  * @param development
  * @param production
  * @param testing
- * PHP will display errors based on what statge of the project you are
+ * PHP will display errors based on what stage of the project you are
  */
 
 DEFINE("ENVIRONMENT","development");

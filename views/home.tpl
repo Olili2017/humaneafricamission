@@ -11,7 +11,7 @@
 						</li>
 						<li>
 						   <div class="banner-info">
-							    <h3 class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">Settle In</h3>
+							    <h3 class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">Humanity with Humility</h3>
 								 <p class="wow slideInDown"  data-wow-duration="1s" data-wow-delay=".3s">THIS IS HOME</p>
 								  <div class="arrows wow slideInDown"  data-wow-duration="1s" data-wow-delay=".2s"><img src="../assets/../assets/images/border.png" alt="border"/></div>
 								 <span class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">READY TO BE OPENED</span>
@@ -65,7 +65,7 @@
 				  <div class="grid">
 			        <div class="h-f wow slideInLeft"  data-wow-duration="1s" data-wow-delay=".2s">
 					<figure class="effect-jazz">
-					<img src="../assets/images/s1.jpg" alt="img25"/>
+					<img src="../assets/images/main1.jpg" alt="img25"/>
 						<figcaption>
 							<h4>humane <span>africa</span></h4>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
@@ -76,7 +76,7 @@
 				 </div>
 				 <div class="h-f wow slideInLeft"  data-wow-duration="1s" data-wow-delay=".2s">
 					<figure class="effect-jazz">
-						<img src="../assets/images/s2.jpg" alt="img25"/>
+						<img src="../assets/images/main2.jpg" alt="img25"/>
 						<figcaption>
 							<h4>humane <span>africa</span></h4>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
@@ -91,7 +91,7 @@
 			   <div class="col-md-5 ab-text">
 			             <h3 class="tittle wow slideInDown"  data-wow-duration="1s" data-wow-delay=".3s">Welcome</h3>
 						  <div class="arrows-two wow slideInDown"  data-wow-duration="1s" data-wow-delay=".5s"><img src="../assets/images/border.png" alt="border"/></div>
-						  <p class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere.Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+						  <p class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">Humane Africa Mission is a non-political, non-descriminating charity organisation formed to address community health, livelihood and environmental challenges to deal with present environmental socio-economic problems in different parts of Uganda.</p>
 						  <div class="start wow flipInX"  data-wow-duration="1s" data-wow-delay=".3s">
 						     <a href="single.html" class="hvr-bounce-to-bottom">Get Started</a>
 						  </div>
@@ -105,7 +105,10 @@
 			        <div class="col-md-5 ab-text two">
 			             <h3 class="tittle wow slideInDown"  data-wow-duration="1s" data-wow-delay=".3s">About</h3>
 						 <div class="arrows-two wow slideInDown"  data-wow-duration="1s" data-wow-delay=".5s"><img src="../assets/images/border.png" alt="border"/></div>
-						  <p class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere.Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+						 <h2>Mission</h2>
+						 <p class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">H.A.M is working to assist the needy and neglected people at grassroot level and find access to sustain in the society with due dignity. Therefore H.A.M will take all necessary initiatives to empower community people to help them solve their own socio-economic problems towards poverty aleviation.</p>
+						 <h2>Vision</h2>
+						  <p class="wow slideInUp"  data-wow-duration="1s" data-wow-delay=".3s">A healthy, productive and environment clean society free from poverty, socially and economically self reliant. </p>
 						 <div class="start wow flipInX"  data-wow-duration="1s" data-wow-delay=".3s">
 						     <a href="single.html" class="hvr-bounce-to-bottom">Read more</a>
 						  </div>
@@ -133,7 +136,7 @@
 						
 						</figcaption>			
 					</figure>
-					
+					\
 				 </div>
 				 <div class="clearfix"> </div>
 				 </div>
@@ -147,36 +150,36 @@
 <!-- service-type-grid -->
 	<div class="service" id="services">
 		<div class="container">
-		    <h3 class="tittle">Our Services</h3>
+		    <h3 class="tittle">What we do</h3>
 			<div class="arrows-serve"><img src="../assets/images/border.png" alt="border"></div>
 				<div class="inst-grids">
 					<div class="col-md-3 services-gd text-center wow slideInLeft"  data-wow-duration="1s" data-wow-delay=".3s">
 						<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 							<a href="#" class="hi-icon"><img src="../assets/images/serve1.png" alt=" " /></a>
 						</div>
-						<h4>View our Menu</h4>
-						 <p>Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit.</p>
+						<h4>Humane Health</h4>
+						 <p>Health education and counselling of persons affected by HIV/AIDs.</p>
 					</div>
 					<div class="col-md-3 services-gd text-center wow slideInDown"  data-wow-duration="1s" data-wow-delay=".2s">
 						<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 							<a href="#" class="hi-icon"><img src="../assets/images/serve2.png" alt=" " /></a>
 						</div>
-						<h4>Reservation</h4>
-						 <p>Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit.</p>
+						<h4>Humane education</h4>
+						 <p>Technical and vocational skills to the youth in northern Uganda to create more jobs.</p>
 					</div>
 					<div class="col-md-3 services-gd text-center wow slideInUp"  data-wow-duration="1s" data-wow-delay=".2s">
 						<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 							<a href="#" class="hi-icon"><img src="../assets/images/serve3.png" alt=" " /></a>
 						</div>
-						<h4>Fine Recipes</h4>
-						 <p>Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit.</p>
+						<h4>Environment</h4>
+						 <p>Preservation of the environment through encouraging the communities to plant more trees and.</p>
 					</div>
 					<div class="col-md-3 services-gd text-center wow slideInRight"  data-wow-duration="1s" data-wow-delay=".3s">
 						<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
 							<a href="#" class="hi-icon"><img src="../assets/images/serve4.png" alt=" " /></a>
 						</div>
-						<h4>Spicy Recipes</h4>
-						 <p>Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit.</p>
+						<h4>Livelihood</h4>
+						 <p>We help people find better and more productive means of survival through providing reliable seedlings and pesticides</p>
 					</div>
 					<div class="clearfix"> </div>		
 				</div>
@@ -187,7 +190,7 @@
  <!--start-services-->
 	<div class="team-section" id="team">
 	 	  <div class="container">
-		  <h3 class="tittle">Our Chefs</h3>
+		  <h3 class="tittle">Vissionaries</h3>
 		  <div class="arrows-serve"><img src="../assets/images/border.png" alt="border"></div>
 	 		<div class="box2">
 	 		   <div class="col-md-3 s-1 wow slideInLeft" data-wow-duration="1s" data-wow-delay=".3s">
@@ -195,35 +198,35 @@
 	 		   	<div class="view view-fifth">
                     <img src="../assets/images/chef1.jpg" alt="chef">
                     <div class="mask">
-                        <h4>Vivamus moles tie gravida turpis</h4>
+                        <h4>Executive director</h4>
                         <p>A wonderful serenity has taken possession of my entire soul,  I enjoy with my whole heart.</p>
                          <p class="p2">A wonderful serenity has taken possession of my entire soul, I enjoy with my whole heart.</p>
                      </div>
                    
 				    </div>
 				  </a>
-			<h3>Wilson</h3>
+			<h3>Felix Omodi</h3>
 				</div>
 		<div class="col-md-3 s-2 wow slideInLeft" data-wow-duration="1s" data-wow-delay=".3s">
 		<a href="#">
 	 		   	<div class="view view-fifth">
                       <img src="../assets/images/chef2.jpg" alt="chef">
                        <div class="mask">
-                        <h4>Vivamus moles tie gravida turpis</h4>
+                        <h4>Director</h4>
                         <p>A wonderful serenity has taken possession of my entire soul,  I enjoy with my whole heart.</p>
                          <p class="p2">A wonderful serenity has taken possession of my entire soul, I enjoy with my whole heart.</p>
                      </div>
                
 				    </div>
 				  </a>
-				<h3>Victoria</h3>
+				<h3>Denis Omodi Alyela</h3>
 				</div>
 			  <div class="col-md-3 s-3 wow slideInRight" data-wow-duration="1s" data-wow-delay=".3s">
 			  <a href="#">
 	 		   	<div class="view view-fifth">
                      <img src="../assets/images/chef3.jpg" alt="chef">
                     <div class="mask">
-                        <h4>Vivamus moles tie gravida turpis</h4>
+                        <h4>Projects Cordinator</h4>
                         <p>A wonderful serenity has taken possession of my entire soul,  I enjoy with my whole heart.</p>
                          <p class="p2">A wonderful serenity has taken possession of my entire soul, I enjoy with my whole heart.</p>
                      </div>
@@ -237,7 +240,7 @@
 	 		   	 <div class="view view-fifth">
                       <img src="../assets/images/chef4.jpg" alt="chef">
                     <div class="mask">
-                        <h4>Vivamus moles tie gravida turpis</h4>
+                        <h4>Administrator</h4>
                         <p>A wonderful serenity has taken possession of my entire soul,  I enjoy with my whole heart.</p>
                          <p class="p2">A wonderful serenity has taken possession of my entire soul, I enjoy with my whole heart.</p>
                      </div>
@@ -311,8 +314,8 @@
 	<div class="reservation" id="reservation">
 		<div class="container">
 		<div class="reservation-info">
-		  <h3 class="tittle reserve">Make a <br>
-			Reservation</h3>
+		  <h3 class="tittle reserve">Make a 
+			Donation</h3>
 			 <div class="arrows-reserve"><img src="../assets/images/border.png" alt="border"></div>
 				<div class="book-reservation wow slideInUp" data-wow-duration="1s" data-wow-delay=".5s">
 					<form>
@@ -337,7 +340,7 @@
 						</div>
 						<div class="clearfix"> </div>
 						<div class="make wow shake" data-wow-duration="1s" data-wow-delay=".5s">
-						  <input type="submit" value="Make a Reservation">
+						  <input type="submit" value="Donate now">
 						</div>
 					</form>
 
@@ -355,14 +358,14 @@
 		<div class="arrows-serve"><img src="../assets/images/border.png" alt="border"></div>
 				<div class="gallery-grids">
 					<div class="col-md-6 baner-top wow fadeInRight animated" data-wow-delay=".5s">
-						<a href="../assets/images/g1.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa3.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/g1.jpg" alt=" " />
+								<img src="../assets/images/pa3.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
 										<span class="separator"></span>
-										<p>Sit accusamus, vel blanditiis iure minima ipsa molestias minus laborum velit, nulla nisi hic quasi enim.</p>
+										<p>Humanity with hunility.. bringing back hope where it has been lost</p>
 										<span class="separator"></span>
 										
 									</div>
@@ -371,14 +374,14 @@
 						</a>
 					</div>
 					<div class="col-md-6 baner-top wow fadeInLeft animated" data-wow-delay=".5s">
-						<a href="../assets/images/g2.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa1.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/g2.jpg" alt=" " />
+								<img src="../assets/images/pa1.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
 										<span class="separator"></span>
-										<p>Sit accusamus, vel blanditiis iure minima ipsa molestias minus laborum velit, nulla nisi hic quasi enim.</p>
+										<p>The young and pure at heart all given a smile to brighten their lives</p>
 										<span class="separator"></span>
 										
 									</div>
@@ -387,14 +390,14 @@
 						</a>
 					</div>
 					<div class="col-md-3 baner-top ban-mar wow fadeInUp animated" data-wow-delay=".5s">
-						<a href="../assets/images/c1.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa4.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/c1.jpg" alt=" " />
+								<img src="../assets/images/pa4.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
 										<span class="separator"></span>
-										<p>Sit accusamus, vel blanditiis iure minima ipsa.</p>
+										<p>Humanity with hunility.. bringing back hope where it has been lost</p>
 										<span class="separator"></span>
 										
 									</div>
@@ -410,7 +413,7 @@
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
 										<span class="separator"></span>
-										<p>Sit accusamus, vel blanditiis iure minima ipsa.</p>
+										<p>Humanity with hunility.. bringing back hope where it has been lost</p>
 										<span class="separator"></span>
 										
 									</div>
@@ -451,9 +454,9 @@
 						</a>
 					</div>
 					<div class="col-md-6 baner-top wow fadeInRight animated" data-wow-delay=".5s">
-						<a href="../assets/images/g7.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa5.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/g7.jpg" alt=" " />
+								<img src="../assets/images/pa5.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
@@ -467,9 +470,9 @@
 						</a>
 					</div>
 					<div class="col-md-6 baner-top wow fadeInLeft animated" data-wow-delay=".5s">
-						<a href="../assets/images/g8.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa6.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/g8.jpg" alt=" " />
+								<img src="../assets/images/pa6.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
@@ -509,7 +512,7 @@
 				    <div class="col-md-6 contact-grid wow fadeInUp"  data-wow-duration="1s" data-wow-delay=".3s">
 					<h3 class="tittle wow bounceIn"  data-wow-duration=".8s" data-wow-delay=".2s">Contact Us</h3>
 						<div class="arrows-three"><img src="../assets/images/border.png" alt="border"></div>
-							<p class="wel-text wow fadeInDown"  data-wow-duration=".8s" data-wow-delay=".4s">Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.</p>
+							<p class="wel-text wow fadeInDown"  data-wow-duration=".8s" data-wow-delay=".4s">Give us feedback to help us serve better.</p>
 						    <form id="filldetails">
 					  <div class="field name-box">
 							<input type="text" id="name" placeholder="Who Are You?" required=""/>
@@ -545,28 +548,28 @@
 						<h4 class="info">Our Info </h4>
 						<p class="para1">Lorem ipsum dolor sit amet. Ut enim ad minim veniam.Sunt in culpa qui officia deserunt mollit anim id est laborum.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature. </p>
 						<div class="con-top">
-							<h4>Alaska</h4>
+							<h4>LIRA</h4>
 								<ul>
-								<li>4th Floor dolor sit amet,</li> 
-								<li># Grand Hyatt New York Road,</li>  
-								<li>Opp. adipiscing elit,</li> 
-								<li>Alaska - 99501</li> 
-								<li>Ph:4568956555 </li>
-								<li>Call Centre Time : 7am to 11pm</li>
+								<li>Plot 15 Ogwal Ojumgu Rd,</li>  
+								<li>Lira District Uganda</li> 
+								<li>P.O.BOX 835</li>
+								<li>Tel: +256 393 224 833/+256 772 514 733</li>
 								<li><a href="mailto:info@humaneafricamission.org">info@humaneafricamission.org</a></li>
 							  </ul>
 						</div>
 						<div class="con-top two">
+						<!--
 							<h4>Hawaii</h4>
 							<ul>
 								<li>4th Floor dolor sit amet,</li> 
-								<li># Grand Hyatt New York Road,</li>   
+								<li># Grand Hyatt New York Road,</li>  
 								<li>Opp. adipiscing elit,</li> 
 								<li>Hawaii - 96815</li>
 								<li>Ph:3698521475 </li>
-								<li>Call Centre Time : 7am to 11pm</li>	
+								<li>Call Centre Time : 7am to 11pm</li>
 								<li><a href="mailto:info@humaneafricamission.org">info@humaneafricamission.org</a></li>
-							</ul>								
+							</ul>	
+							-->							
 						</div>
 					</div>
 					

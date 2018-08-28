@@ -59,7 +59,7 @@
                               <ul>
 								 <li class="active"><a data-hover="Home" href="index.php">Home</a></li>
 								<li><a data-hover="About" href="#about" class="scroll">About</a></li>
-								<li><a data-hover="Services" href="#services" class="scroll">Services</a></li>
+								<li><a data-hover="Services" href="#services" class="scroll">What we do</a></li>
 								<li><a data-hover="Team" href="#team" class="scroll">Team</a></li>
 							    <li><a data-hover="Donations" href="#reservation" class="scroll">Donations</a></li>
 							    <li><a data-hover="Gallery" href="#gallery" class="scroll">Gallery</a></li>
