@@ -158,7 +158,7 @@
 							<a href="#" class="hi-icon"><img src="../assets/images/serve1.png" alt=" " /></a>
 						</div>
 						<h4>Humane Health</h4>
-						 <p>Health education and counselling of persons affected by HIV/AIDs.</p>
+						 <p>Health education and counselling of persons affected by HIV/AIDs.<br>Training to VHTs on phychosocial support and counselling. </p>
 					</div>
 					<div class="col-md-3 services-gd text-center wow slideInDown"  data-wow-duration="1s" data-wow-delay=".2s">
 						<div class="hi-icon-wrap hi-icon-effect-9 hi-icon-effect-9a">
@@ -406,9 +406,9 @@
 						</a>
 					</div>
 					<div class="col-md-3 baner-top ban-mar wow fadeInDown animated" data-wow-delay=".5s">
-						<a href="../assets/images/c2.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa7.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/c2.jpg" alt=" " />
+								<img src="../assets/images/pa7.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
@@ -422,9 +422,9 @@
 						</a>
 					</div>
 					<div class="col-md-3 baner-top ban-mar wow fadeInUp animated" data-wow-delay=".5s">
-						<a href="../assets/images/c3.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa9.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/c3.jpg" alt=" " />
+								<img src="../assets/images/pa9.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
@@ -438,9 +438,9 @@
 						</a>
 					</div>
 					<div class="col-md-3 baner-top ban-mar wow fadeInDown animated" data-wow-delay=".5s">
-						<a href="../assets/images/c4.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="../assets/images/pa8.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="../assets/images/c4.jpg" alt=" " />
+								<img src="../assets/images/pa8.jpg" alt=" " />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>humane africa</h4>
@@ -553,7 +553,7 @@
 								<li>Plot 15 Ogwal Ojumgu Rd,</li>  
 								<li>Lira District Uganda</li> 
 								<li>P.O.BOX 835</li>
-								<li>Tel: +256 393 224 833/+256 772 514 733</li>
+								<li>Tel: +256393 224 833/+256772 514 733</li>
 								<li><a href="mailto:info@humaneafricamission.org">info@humaneafricamission.org</a></li>
 							  </ul>
 						</div>
