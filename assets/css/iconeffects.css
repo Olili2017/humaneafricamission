@@ -767,7 +767,7 @@
 	top: 0;
 	left: 0;
 	padding: 0;
-	box-shadow: 0 0 0 3px #EFA52C;
+	box-shadow: 0 0 0 3px #f06060;
 	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
 	-moz-transition: -moz-transform 0.2s, opacity 0.2s;
 	transition: transform 0.2s, opacity 0.2s;
