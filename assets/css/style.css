@@ -47,7 +47,7 @@ label{
 }
 /*-- header --*/
 .banner {
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background: url(../images/IMG_1008.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -74,8 +74,9 @@ label{
 }
 .logo a h1 {
     font-weight: bold;
-    font-size: 4.5em;
-    color: #EFA52C;
+	font-size: 4.5em;
+	/* main color change all */
+    color: #4287c8;
     text-transform: uppercase;
 }
 .logo a span {
@@ -86,7 +87,7 @@ label{
 }
 .logo p {
     font-size: 0.8em;
-    color: #EFA52C;
+    color: #4287c8;
     text-transform: uppercase;
     letter-spacing: 3px;
     padding: 0;
@@ -149,7 +150,7 @@ label{
     overflow: hidden;
     padding: 0 10px;
     max-height: 0;
-    color:#EFA52C;
+    color:#4287c8;
     content: attr(data-hover);
     -webkit-transition: max-height 0.5s;
     -moz-transition: max-height 0.5s;
@@ -190,7 +191,7 @@ label{
 		z-index: 999;
 		position: absolute;
 		width: 92%;
-		background: #efa52c;
+		background: #4287c8;
 		text-align: center;
 	}
 	.top-menu li a {
@@ -390,8 +391,8 @@ label{
   -ms-border-radius:50%;
 }
 .callbacks_here a:after{
-     background:#EFA52C;
-    border: 2px solid #EFA52C;
+     background:#4287c8;
+    border: 2px solid #4287c8;
 }
 .banner-info {
        padding: 5em 2em;
@@ -403,7 +404,7 @@ label{
 .banner-info h3 {
     font-size: 5em;
     font-weight: 400;
-    color:#EFA52C;
+    color:#4287c8;
 	margin:0;
 }
 .banner-info p {
@@ -413,13 +414,13 @@ label{
 
 }
 .banner-info span {
-    color: #EFA52C;
+    color: #4287c8;
     letter-spacing: 4px;
     font-size: 0.9em;
 }
 .arrows{
 	    position:relative;
-		color:#EFA52C;
+		color:#4287c8;
 		font-size:2em;
 }
 .arrows:before{
@@ -446,7 +447,7 @@ label{
 }
 .arrows-two {
     position: relative;
-    color: #EFA52C;
+    color: #4287c8;
     font-size: 2em;
 }
 .arrows-two:before {
@@ -613,7 +614,7 @@ figure.effect-jazz h4 {
 	    padding-top:57%;
     -webkit-transition: -webkit-transform 0.35s;
     transition: transform 0.35s;
-    color: #EFA52C;
+    color: #4287c8;
     font-weight: bold;
     font-size:2em;
 }
@@ -652,7 +653,7 @@ figure.effect-jazz:hover p {
 }
 .start a{
 	padding: 15px 35px;
-    background:#EFA52C;
+    background:#4287c8;
     font-size: 1em;
     color: #fff;
     text-decoration: none;
@@ -715,7 +716,7 @@ figure.effect-jazz:hover p {
       margin: 3em 0 0 0;
 }
 .hi-icon-effect-9a .hi-icon:hover {
-    box-shadow: 0 0 0 5px #EFA52C;
+    box-shadow: 0 0 0 5px #4287c8;
 }
 a.hi-icon img {
     margin: 22px 0 0;
@@ -724,7 +725,7 @@ a.hi-icon img {
     padding: 0;
 }
 .services-gd h4 {
-    color: #EFA52C;
+    color: #4287c8;
     font-size: 1.4em;
     text-transform: uppercase;
     line-height: 1.2em;
@@ -743,7 +744,7 @@ a.hi-icon img {
 	   text-align:center;
 }
 .s-1 h3,.s-2 h3,.s-3 h3,.s-1 h3,.s-2 h3,.s-4 h3{
-	color: #EFA52C;
+	color: #4287c8;
     font-size: 1.4em;
     text-transform: uppercase;
     line-height: 1.5em;
@@ -814,7 +815,7 @@ a.hi-icon img {
 }
 .view-fifth h4 {
    font-size: 20px;
-    border-bottom: 1px solid #EFA52C;
+    border-bottom: 1px solid #4287c8;
     color: #fff;
     line-height: 1.5em;
     font-weight: 600;
@@ -841,7 +842,7 @@ a.hi-icon img {
 }
 .arrows-serve{
 	    position:relative;
-		color:#EFA52C;
+		color:#4287c8;
 		font-size:2em;
 }
 .arrows-serve:before{
@@ -864,7 +865,7 @@ a.hi-icon img {
 }
 .arrows-serve.test{
 	    position:relative;
-		color:#EFA52C;
+		color:#4287c8;
 		font-size:2em;
 }
 .arrows-serve.test:before{
@@ -897,7 +898,7 @@ h3.title,h2.title.review {
 }
 .test-monials h5{
       font-size: 2em;
-    color: #EFA52C;
+    color: #4287c8;
     text-transform: none;
     margin-top: 0.7em;
 	
@@ -1145,7 +1146,7 @@ h3.title,h2.title.review {
 .info-gal-con h4 {
     font-size:45px;
     margin-bottom: 30px;
-    color: #efa52c;
+    color: #4287c8;
 }
 .info-gal-con p {
     font-size: 14px;
@@ -1167,7 +1168,7 @@ h3.title,h2.title.review {
   padding-top:8em;
 }
 .bottom-top h3 {
-    color:#EFA52C;
+    color:#4287c8;
     font-size: 3.5em;
     font-weight:bold;
 }
@@ -1213,7 +1214,7 @@ h2.sec-head {
     margin-top: 4em;
 }
 h3.tittle.reserve {
- color: #EFA52C;
+ color: #4287c8;
 
 }
 .reservation-info h4 {
@@ -1242,12 +1243,12 @@ h3.tittle.reserve {
 .book-reservation label i{   
      font-size: 0.9em;
     margin-right: 10px;
-	color: #EFA52C;
+	color: #4287c8;
 
 }
 .book-reservation input[type="text"],.book-reservation input[type="date"],.book-reservation input[type="time"] {
     width: 100%;
-    color:#EFA52C;
+    color:#4287c8;
     outline: none;
     font-size: 1em;
     padding:1em 1em;
@@ -1265,7 +1266,7 @@ h3.tittle.reserve {
     border-radius: 0;
     height: 66px;
     background: none;
-    color:#EFA52C;
+    color:#4287c8;
     border: 2px solid #fff;
 }
 .make {
@@ -1277,9 +1278,9 @@ h3.tittle.reserve {
     padding: 1em 2em;
     font-size: 1.2em;
     cursor: pointer;
-    border: 2px solid #EFA52C;
+    border: 2px solid #4287c8;
     outline: none;
-    background:#EFA52C;
+    background:#4287c8;
     font-family: 'Merriweather Sans', sans-serif;
 }
 .make input[type=submit]:hover {
@@ -1292,7 +1293,7 @@ h3.tittle.reserve {
 }
 .arrows-reserve{
 	    position:relative;
-		color:#EFA52C;
+		color:#4287c8;
 		font-size:2em;
 }
 .arrows-reserve:before{
@@ -1316,7 +1317,7 @@ h3.tittle.reserve {
 /*--//reservation--*/
 /*--single--*/
 .banner.two {
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background: url(../images/pa9.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1367,7 +1368,7 @@ h3.single {
   text-align: left;
 }
 .leave h4,h4.tz-title-4.tzcolor-blue {
-    color: #efa52c;
+    color: #4287c8;
     font-size: 4em;
     font-weight: 400;
     margin-top: 0.5em;
@@ -1427,10 +1428,10 @@ p.form-submit {
   border: none;
 }
 #commentform input[type="submit"]:hover{
-    background:#efa52c;
+    background:#4287c8;
 }
 span.m_14 {
-     color:#efa52c;
+     color:#4287c8;
     font-weight: 400;
     text-transform: capitalize;
     font-size:0.9em;
@@ -1472,7 +1473,7 @@ ul.list {
     text-transform: uppercase;
     text-decoration: none;
     -webkit-appearance: none;
-    background: #efa52c;
+    background: #4287c8;
     line-height: 13px;
 }
 a.blog-text {
@@ -1504,7 +1505,7 @@ p.post {
     font-size: 1.5em;
 }
 p.post a {
-    color: #efa52c;
+    color: #4287c8;
 }
 .leave textarea{
 	resize:none;
@@ -1601,7 +1602,7 @@ h3.tittle {
 }
 .arrows-three{
 	    position:relative;
-		color:#EFA52C;
+		color:#4287c8;
 		font-size:2em;
 }
 .arrows-three:before{
@@ -1707,16 +1708,16 @@ form .field input[type="text"]:focus + label, form .field input[type="text"].foc
 form .field textarea:focus + label,
 form .field textarea.focused + label {
   width: 18%;
-  background: #efa52c;
+  background: #4287c8;
   color: #fff;
 }
 form .field input[type="text"].focused + label,
 form .field textarea.focused + label {
-  color: #efa52c;
+  color: #4287c8;
 }
 form .field:hover label {
   width: 20%;
-  background:#efa52c;
+  background:#4287c8;
   color: white;
 }
 form input[type="submit"]:focus {
@@ -1728,7 +1729,7 @@ form input[type="submit"]:focus {
 }
 .send input[type="submit"]{
        border: none;
-    background: #EFA52C;
+    background: #4287c8;
     cursor: pointer;
     border-radius: 0px;
     width: 155px;
@@ -1770,7 +1771,7 @@ form input[type="submit"]:focus {
 	list-style:none;
 }
 .con-top ul li a {
-  color: #efa52c;
+  color: #4287c8;
   text-decoration:none;
 }
 .con-top {
@@ -1786,7 +1787,7 @@ form input[type="submit"]:focus {
 }
 .con-top h4 ,h4.info{
         font-size: 1.4em;
-    color: #efa52c;
+    color: #4287c8;
     font-weight: bold;
     font-family: 'Merriweather Sans', sans-serif;
     text-transform: uppercase;
@@ -1818,7 +1819,7 @@ p.wel-text{
 .logo2 a h2 {
     font-weight: bold;
     font-size: 5.5em;
-    color: #EFA52C;
+    color: #4287c8;
     text-transform: uppercase;
 }
 .logo2 a span {
@@ -1833,7 +1834,7 @@ a.flag_tag2 {
 }
 .logo2 p {
     font-size: 0.8em;
-    color: #EFA52C;
+    color: #4287c8;
     text-transform: uppercase;
     letter-spacing: 3px;
     padding: 0;
@@ -1889,7 +1890,7 @@ p.copy-right{
     text-align: center;
 }
 p.copy-right a{
-   color: #EFA52C;
+   color: #4287c8;
 }
 p.copy-right a:hover{
   text-decoration:underline;
